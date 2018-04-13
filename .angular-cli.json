@@ -55,6 +55,11 @@
   },
   "defaults": {
     "styleExt": "css",
-    "component": {}
+    "class": {
+      "spec": false
+    },
+    "component": {
+      "spec": false
+    }
   }
 }
